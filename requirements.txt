@@ -1,0 +1,14 @@
+torch
+torchvision
+scikit-learn
+pandas
+numpy
+matplotlib
+jupyterlab
+ipython
+pillow
+transformers
+tqdm
+tensorflow
+xgboost
+graphviz
