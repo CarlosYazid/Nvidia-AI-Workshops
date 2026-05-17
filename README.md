@@ -79,15 +79,15 @@ Nvidia-AI-Workshops/
 
 ##### Epoca 5
 
-![Epoca 5]('static/day 3/Diffusion Result (5 Epoch).png')
+![Epoca 5](/static/day%203/Diffusion%20Result%20(5%20Epoch).png)
 
 ##### Epoca 50
 
-![Epoca 50]('static/day 3/Diffusion Result (50 Epoch).png')
+![Epoca 50](/static/day%203/Diffusion%20Result%20(50%20Epoch).png)
 
 ##### Epoca 100
 
-![Epoca 100]('static/day 3/Diffusion Result (100 Epoch).png')
+![Epoca 100](/static/day%203/Diffusion%20Result%20(100%20Epoch).png)
 
 ---
 
